@@ -5,7 +5,8 @@ Hosting our code
 2. Developers are welcome to mirror the code, if its covered by non-disclosure agreement. However, all commits must reach our repositories in real-time.
 3. All in-house or third-party issue/bug-tracking mechanisms used by our development partners must be real-time linked to our repository.
 4. Best practices for versioning have to be enforced as described by [SemVer 2.0.0](http://semver.org/spec/v2.0.0.html)
-5. Best practices of branching have to be enforced as described by [Vincent Driessen, 2010](http://nvie.com/posts/a-successful-git-branching-model/)
+5. Best practices of branching have to be enforced as described by [Vincent Driessen, 2010](http://nvie.com/posts/a-successful-git-branching-model/);
+    Please have the [mental model](./Git-branching-model.pdf) printed out and stick it on your developer's favorite vending machine.
 
 References
 ----
