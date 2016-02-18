@@ -15,3 +15,9 @@ References
 	- [SourceGithub Configuration](https://github.com/mantisbt-plugins/source-integration/blob/master/docs/CONFIGURING.SourceGithub.md) plugin requires Mantis 1.2.16. Latest stable as of _Feb 17 2016_ is [release-1.2.19](https://github.com/mantisbt/mantisbt/releases/tag/release-1.2.19)
 	- [Upgrading MantisBT](https://github.com/mantisbt/mantisbt/blob/master/readme.md#upgrading)
 	- [Outdated (2009) article](https://noswap.com/projects/source-integration) about Mantis integration with different source controls.
+
+
+---
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+Piletilevi Coding Standards by [Mihkel Putrinš](https://github.com/mitselek)
+is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
